@@ -5,6 +5,7 @@ $_['text_api']          					= 'API';
 $_['text_attribute']          				= 'Атрибуты';
 $_['text_attribute_group']          		= 'Группы атрибутов';
 $_['text_backup']          					= 'Бэкап / Восстановление';
+$_['text_export_import']               = 'Export / Import';
 $_['text_banner']          					= 'Баннеры';
 $_['text_catalog']          				= 'Каталог';
 $_['text_category']          				= 'Категории';
